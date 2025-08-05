@@ -45,10 +45,9 @@ This repository contains only the components I directly developed and implemente
 
 ___
 
-## Screenshots
+## Media Resources
 
-### In-vehicle View  
-![Driver POV](ReadMeAssets/driver_view.png)
-
-### Pedestrian Detection  
-![Pedestrian Alert](ReadMeAssets/pedestrian_detection.png)
+- [Screenshots & Visuals (OneDrive)](https://studthdegde-my.sharepoint.com/:f:/g/personal/abhishek_dubasi_stud_th-deg_de/Eu7-3cGFICpOjXLLxLYXWy4Bmr-o--dDsnzsRCXtYIsjPQ?e=d0OQSm)
+- [Videos of the Unity Simulation - MP4](https://studthdegde-my.sharepoint.com/:f:/g/personal/abhishek_dubasi_stud_th-deg_de/Eq8z8s7w8N5MktSsATyw6soBZCvrT-ZI93qIZa8TI_uarg?e=dTuQe3)
+- [Project Presentation (PPT)](https://studthdegde-my.sharepoint.com/:f:/g/personal/abhishek_dubasi_stud_th-deg_de/En3-6eAKa8xOrzbUUuIZ9lkBJ5X6YMA7QwBNc16Ndb5fiw?e=f5E5cu)
+- [IEEE Research Paper](https://studthdegde-my.sharepoint.com/:f:/g/personal/abhishek_dubasi_stud_th-deg_de/EnVbjXuPvDxMqnsPytYlj60B86l0F76Od9uLiURVR4SkIg?e=8oZKar)
