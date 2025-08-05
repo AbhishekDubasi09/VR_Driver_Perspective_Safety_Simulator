@@ -20,6 +20,20 @@ To design and implement a driver-perspective safety simulation framework that ev
 - In-cabin voice assistance
 
 ___
+## Euro NCAP Integration
+
+This simulator was developed with direct reference to the **Euro NCAP (European New Car Assessment Programme)** protocols, specifically the **2025 roadmap for Vulnerable Road User (VRU) protection** and **Automated Driving (AD) safety features**.
+
+The implemented logic and scene setups align with Euro NCAP's guidelines for:
+
+- **AEB VRU scenarios**, including adult and child pedestrian crossing paths
+- **Vehicle speed thresholds and timing** for Forward Collision Warning (FCW) and AEB activation
+- **Occlusion-based hazard detection**, such as pedestrians emerging between parked vehicles
+- **Driver attention and reaction timing**, mapped to scenario timing rules
+- **Repeatable, measurable testing environments** for pre-crash events
+
+These standards helped structure the pedestrian AI, collision zone triggers, and test layouts to reflect real-world safety test cases. This approach allows developers and researchers to simulate and iterate on ADAS behavior in a controlled, immersive environment without physical risk or high cost.
+
 
 ## Relevance to Automotive Safety
 
