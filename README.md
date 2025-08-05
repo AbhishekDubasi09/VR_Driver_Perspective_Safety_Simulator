@@ -17,7 +17,6 @@ To design and implement a driver perspective safety simulation framework that ev
 - Dynamic Urban Environments
 - VR-Based First-Person Experience
 - In-Cabin Voice Assistance
-- 
 
 ___
 
