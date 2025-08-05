@@ -1,46 +1,54 @@
-Author - Abhishek Dubasi 
-<br>
-# VR Driver Perspective Safety Simulator
-<br>
-This repository contains a lightweight demonstration of a Virtual Reality based safety simulation environment built using Unity. <br>The project focuses on simulating advanced driver safety systems in good performing vehicle models, which is in our case Volvo S90.
-<br>
-Developed as part of a capstone research project at Deggendorf Institute of Technology, Bavaria, Germany. 
-<br>
-## Objective of the Project
+# VR Driver Perspective Safety Simulator  
+**Author: Abhishek Dubasi**
 
-To design and implement a driver perspective safety simulation framework that evaluates driver behavior and reaction time under various road and hazard conditions. <br>The system includes:
-<br>
-- AEB
-- Collision Warning Logic
-- Pedestrian Detection and Avoidance
-- Distracted Driving Scenarios
-- Dynamic Urban Environments
-- VR-Based First-Person Experience
-- In-Cabin Voice Assistance
+This repository contains a simple presentation of a Virtual Reality–based safety simulation environment built using Unity. The project simulates advanced driver safety systems within high-performance vehicle models - in this case, the Volvo S90.
+
+Developed as part of a capstone research project at the Deggendorf Institute of Technology, Bavaria, Germany.
+
+___
+
+## Main Objective
+
+To design and implement a driver-perspective safety simulation framework that evaluates driver behavior and reaction time under various road and hazard conditions. The system includes:
+
+- Automatic Emergency Braking (AEB)
+- Collision warning logic
+- Pedestrian detection and avoidance
+- Distracted driving scenarios
+- Dynamic urban environments
+- First-person VR experience
+- In-cabin voice assistance
 
 ___
 
 ## Relevance to Automotive Safety
 
-The system was built with reference to the evolving human-machine interface (HMI) needs in high-speed, high-risk driving environments. It explores how future hypercars could integrate immersive simulations to fine-tune their Advanced Driver-Assistance Systems (ADAS), including:
+This simulator explores the evolving human-machine interface (HMI) needs in high-speed and high-risk driving contexts. It demonstrates how immersive simulation environments can support the development and validation of advanced driver-assistance systems (ADAS), including:
 
 - Forward Collision Warning (FCW)
-- Autonomous Emergency Braking (AEB)
-- Pedestrian Auto-Response Zones
-- Scene Occlusion Modeling for Urban Navigation
+- Automatic Emergency Braking (AEB)
+- Pedestrian response zones
+- Scene occlusion handling in urban environments
 
 ___
 
-## My Role in Development
+## Role of Development  
 
-This repository includes only the components I personally designed and implemented, including:
+This repository contains only the components I directly developed and implemented:
 
-- Custom vehicle physics tuned for responsive simulation feedback
-- Modular pedestrian AI system based on waypoint networks
-- Scene design with variable occlusion and hazard positioning
-- Meta Quest 3 integration for VR testing
-- Input mapping for steering wheel and META Quest 3
-- Voice-triggered assistant for auditory driver feedback
+- Custom vehicle physics for realistic driving feedback
+- Waypoint-based pedestrian AI and movement system
+- Scene design with dynamic hazards and occlusion logic
+- Meta Quest 3 integration for VR testing and interaction
+- Input mapping for steering wheel and HMD support
+- Voice-triggered in-cabin assistant with contextual alerts
 
+___
 
+## Screenshots
 
+### In-vehicle View  
+![Driver POV](ReadMeAssets/driver_view.png)
+
+### Pedestrian Detection  
+![Pedestrian Alert](ReadMeAssets/pedestrian_detection.png)
